@@ -1,0 +1,8 @@
+name: MySkyDefender
+version: '${project.version}'
+main: fr.luckykous.myskydefender.MySkyDefender
+api-version: 1.13
+prefix: MSD
+authors: [ LuckyKous ]
+description: my sky defender plugin with cool images instead of boring text
+website: luckykous.fr
